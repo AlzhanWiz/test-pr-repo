@@ -10,3 +10,5 @@ resource "google_storage_bucket" "mm-network-prod" {
   location                    = "EU"
   uniform_bucket_level_access = false
 }
+
+test-test
